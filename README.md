@@ -1,6 +1,5 @@
 doOverlapEnrichment
 ================
-Carson Callahan
 
 Intro
 -----
